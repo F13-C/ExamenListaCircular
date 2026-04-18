@@ -18,7 +18,7 @@ Una lista doblemente enlazada circular es una estructura donde cada nodo tiene r
 - Imprimir lista
 
 ## Video Explicativo
-[Enlace al video - PENDIENTE DE AGREGAR]
+https://www.youtube.com/watch?v=KBj44uTJyjY
 
 ## Instrucciones de Compilación y Ejecución
 ```bash
